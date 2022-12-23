@@ -1,0 +1,394 @@
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .prestasi .swiper-slide {
+    width: 180px !important;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 12px;
+  }
+  .prestasi .swiper-slide {
+    width: 199px !important;
+  }
+
+  .prestasi .swiper-slide.swiper-slide-active .desk {
+      width: 410px;
+  }
+
+  .kesan-pesan .swiper-slide.swiper-slide-active .desk {
+    width: 520px;
+  }
+  
+}
+
+
+
+@media only screen and (max-width: 992px)  {
+  .tentang-kami .slider-container {
+      margin-top: 0;
+  }
+
+  .grn-left::before {
+    display: none;
+  }
+
+  .grn-right::before {
+    display: none;
+  }
+
+  .visi_misi .visi .header-title::before {
+    display: none;
+  }
+
+  .visi_misi .misi .header-title::before {
+    display: none;
+  }
+
+  .ekskul .swiper-button-prev{
+    left: 38%;
+  }
+
+  .ekskul .swiper-button-next {
+    right: 38%;
+  }
+
+  .ekskul .box-img img {
+    height: 200px;
+  }
+
+
+  .prestasi .swiper-button-prev {
+    left: -20px;
+  }
+
+  .prestasi .swiper-button-next {
+    right: -20px;
+  }
+
+  .gallery .swiper-button-prev{
+    left: 38%;
+  }
+
+  .gallery .swiper-button-next {
+    right: 38%;
+  }
+
+  .kesan-pesan .box-img {
+    background: transparent;
+  }
+
+  .kesan-pesan .swiper-container {
+    padding-bottom: 0;
+  }
+
+  .kesan-pesan .swiper-slide .desk {
+    display: block;
+    position: relative;
+    top: auto;
+    width: 100%;
+    left: auto;
+  }
+
+  .kesan-pesan .swiper-slide .title p {
+    font-size: 18px;
+    color: #fff;
+  }
+
+  .kesan-pesan .swiper-slide .title p.p {
+    font-size: 14px;
+    color: #fff;
+  }
+
+  .kesan-pesan .swiper-slide .desk p {
+    color: #fff;
+  }
+
+  .kesan-pesan .swiper-slide .box-img {
+    text-align: center;
+  }
+
+  .kesan-pesan .swiper-slide .box-img img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+  }
+
+  .kesan-pesan .swiper-slide.swiper-slide-active .desk {
+    display: block;
+    position: relative;
+    top: auto;
+    width: 100%;
+    left: auto;
+  }
+
+  .kesan-pesan .swiper-slide.swiper-slide-active .title p {
+    font-size: 18px;
+    color: #fff;
+  }
+
+  .kesan-pesan .swiper-slide.swiper-slide-active .title p.p {
+    font-size: 14px;
+    color: #fff;
+  }
+
+  .kesan-pesan .swiper-slide.swiper-slide-active .desk p {
+    color: #fff;
+  }
+
+  .kesan-pesan .swiper-slide.swiper-slide-active .box-img {
+    text-align: center;
+  }
+
+  .kesan-pesan .swiper-slide.swiper-slide-active .box-img img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+  }
+
+  .kesan-pesan .swiper-button-prev {
+    top: 100%;
+    left: 34%;
+  }
+
+  .kesan-pesan .swiper-button-next {
+    top: 100%;
+    left: 56%;
+  }
+
+  .mitra-pendukung .swiper-button-prev {
+    display: none;
+  }
+
+  .mitra-pendukung .swiper-button-next {
+    display: none;
+  }
+  
+}
+
+
+@media only screen and (min-width: 992px) {
+  .kesan-pesan .swiper-slide.swiper-slide-active {
+    width: 320px !important;
+    margin-bottom: -153px;
+  }
+}
+
+
+@media only screen and (min-width: 768px) {
+  .prestasi .swiper-slide.swiper-slide-active {
+    width: 358px !important;
+    margin-bottom: -153px;
+  }
+
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 990px) {
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .prestasi .swiper-slide {
+    width: 160px !important;
+  }
+
+  .prestasi .swiper-slide.swiper-slide-active {
+    width: 330px !important;
+  }
+
+  .prestasi .swiper-slide .box-img img {
+    height: 120px;
+  }
+  
+  .prestasi .swiper-slide.swiper-slide-active .desk {
+    top: calc(50%);
+    width: 100%;
+    left: calc(101%);
+  }
+}
+
+
+
+@media only screen and (max-width: 767px) {
+  .hero-header .header-about h4 {
+    font-size: 4vw;
+  }
+
+  .hero-header .header-about h3 {
+    font-size: 5vw;
+  }
+  .visi_misi .visi .img img {
+    height: 150px;
+  }
+
+
+  .visi_misi .misi .img img {
+    height: 150px;
+  }
+
+  
+  .prestasi .swiper-slide {
+    width: auto
+  }
+
+  .prestasi .swiper-slide.swiper-slide-active .box-img {
+    padding: 10px;
+  }
+
+  .prestasi .swiper-slide .title {
+    display: block;
+  }
+
+  .prestasi .swiper-slide .desk {
+    display: block;
+  }
+
+  .prestasi .swiper-slide .desk h4 {
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+  }
+
+  .prestasi .swiper-slide .desk p {
+    color: #000;
+    font-size: 10px;
+  }
+
+  .prestasi .swiper-slide.swiper-slide-active .desk {
+    display: block;
+    position: relative;
+    top: auto;
+    width: 100%;
+    left: auto;
+  }
+
+  .prestasi .swiper-slide.swiper-slide-active .desk h4 {
+    color: #000;
+    font-size: 16px;
+  }
+
+  .prestasi .swiper-slide.swiper-slide-active .desk p {
+    color: #000;
+    font-size: 10px;
+  }
+
+  .prestasi .swiper-button-prev {
+    display: none;
+  }
+  .prestasi .swiper-button-next {
+    display: none;
+  }
+  
+  .footer::before {
+    content: '';
+    position: absolute;
+    background: linear-gradient(237.6deg, #FFC700 -30.09%, #00923E 28.99%, #095328 84.61%);
+    width: 100%;
+    height: 100%;
+}
+
+.copyright img {
+  max-width: 40%;
+}
+
+} 
+
+
+
+@media only screen and (max-width: 600px)  {
+  #popup {
+    width: 95%;
+  }
+
+  #popup img {
+      width: 100%;
+  }
+
+  .hero-header .header-about h4 {
+    font-size: 6vw;
+  }
+
+  .hero-header .header-about h3 {
+    font-size: 7vw;
+  }
+
+    .header-title h2 {
+      font-size: 20px;
+    }
+
+    .visi_misi .ic {
+      max-width: 16%;
+    }
+
+    .visi_misi .visi .img img {
+      height: 110px;
+    }
+
+    .visi_misi .misi .img img {
+      height: 110px;
+    }
+
+    .visi_misi .visi .header-title h2 {
+      font-size: 34px;
+    }
+  
+    .visi_misi .misi .header-title h2 {
+      font-size: 34px;
+    }
+
+    .hero-header .arrow-header .swiper-slide-next {
+        transform: none;
+    }
+
+    .hero-header .arrow-header .arrow-img img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .hero-header .arrow-header .swiper-button-prev {
+      left: -10px;
+    }
+
+    .hero-header .arrow-header .swiper-button-next {
+      right: -10px;
+    }
+
+    .keunggulan .box-keunggulan {
+      padding: 0 75px;
+    }
+
+    .keunggulan .box-keunggulan p {
+        font-size: 10px;
+    }
+
+    .ekskul .box-img img {
+      height: 180px;
+    }
+
+    .prestasi .swiper-slide.swiper-slide-active .desk p {
+      font-size: 12px;
+    }
+
+    .footer .address {
+      padding-right: 0;
+    }
+
+    .footer .address .adrs {
+      padding-right: 0;
+    }
+
+}
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+
+
+
+

@@ -1,0 +1,6 @@
+system/
+.ftpquota
+.htaccess
+composer.json
+contributing.md
+error_log
